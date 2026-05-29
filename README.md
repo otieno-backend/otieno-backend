@@ -1,112 +1,101 @@
-# Hi, I'm Brian Otieno 👋
-
-### Backend Developer | Django Engineer | C++ & Lua Developer
-
-Passionate software developer focused on backend systems, scalable applications, game server architecture, and open-source development.
-
-I enjoy building performant systems, APIs, automation tools, and backend infrastructure using modern technologies.
-
----
+# 👨‍💻 Otieno Brian — Backend Developer
 
 ## 🚀 About Me
 
-* 🔧 Backend-focused developer
-* 🐍 Building APIs and backend systems with Django & Python
-* ⚙️ Experienced with C++, Lua, Linux, and server architecture
-* 🌐 Open-source contributor in OpenTibia ecosystem
-* 🧠 Interested in scalable systems, networking, and performance optimization
-* 📚 Continuously learning modern backend engineering and DevOps
+I am a backend developer focused on building reliable, scalable, and efficient server-side applications. I specialize in backend logic, API development, and database-driven systems using Python.
+
+I enjoy turning ideas into working backend systems and continuously improving my software engineering skills through real-world projects.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Backend
+### 💻 Languages
+
+* Python
+* C
+
+### ⚙️ Backend Development
 
 * Django
 * Django REST Framework
-* Python
-* PostgreSQL
-* MySQL
+* REST API development
+
+### 🗄️ Databases
+
 * SQLite
+* PostgreSQL (learning / use case dependent)
 
-### Systems & Programming
+### 🚀 Deployment & Hosting
 
-* C++
-* Lua
-* Git
-* Linux
-* Bash
+* Render
+* Vercel
 
-### Tools & DevOps
+### 🔧 Tools
 
-* Docker
-* GitHub Actions
-* REST APIs
-* Nginx
+* Git & GitHub
+* Postman
+* Linux CLI
 
 ---
 
-## 📌 Featured Work
+## 📂 Featured Projects
 
-### 🔹 OpenTibia Development
+### 🟢 ALX Django Learning Lab
 
-Worked on multiple OpenTibia-related projects involving:
+A structured backend learning repository covering Django fundamentals and REST API development.
 
-* custom game systems
-* server optimization
-* client modifications
-* modular scripting systems
-* backend architecture
+* Django models and ORM
+* REST API design using Django REST Framework
+* Authentication and permissions
+* Backend architecture fundamentals
 
-### 🔹 OTClient Customization
-
-Experience working with OTClient-based projects written in:
-
-* C++20
-* Lua
-* modular UI systems
-* networking & game protocols
-
-### 🔹 Backend API Development
-
-Currently building modern backend applications using:
-
-* Django
-* REST APIs
-* authentication systems
-* database-driven architectures
+🔗 [https://github.com/otieno-backend/Alx_DjangoLearnLab](https://github.com/otieno-backend/Alx_DjangoLearnLab)
 
 ---
 
-## 📈 Current Goals
+### 🔵 HNG Backend Tasks
 
-* Building production-ready Django backend projects
-* Improving system design & API architecture skills
-* Learning cloud deployment & DevOps workflows
-* Contributing more to open source
+Backend API task-based development project focused on solving structured backend problems.
 
----
+* REST API endpoints
+* Request handling and validation
+* Backend logic implementation
+* Task-based engineering practice
 
-## 🌍 Open Source Experience
-
-Contributed and worked within projects related to:
-
-* OpenTibia ecosystems
-* OTClient customization
-* MMORPG server systems
-* modular scripting frameworks
+🔗 [https://github.com/otieno-backend/HNG14_Backend_Tasks](https://github.com/otieno-backend/HNG14_Backend_Tasks)
 
 ---
 
-## 📫 Contact
+## 🧠 Skills
 
-* GitHub: https://github.com/otieno-backend
-* Email:otienobrian718@gmail.com
-* LinkedIn: www.linkedin.com/in/brian-ochieng-ba1817374
+* API development and integration
+* Database design and management
+* Backend logic implementation
+* Authentication & authorization systems
+* Problem solving using Python and C
+* Version control with Git & GitHub
 
----
 
-## ⚡ Fun Fact
+## 📈 Current Focus
 
-I enjoy solving backend architecture problems and building scalable systems that combine performance, flexibility, and clean engineering.
+I am currently improving my skills in:
+
+* Advanced REST API development
+* System design fundamentals
+* Backend performance optimization
+* Deployment using Render and Vercel
+* Writing production-ready backend systems
+
+
+## 📬 Contact
+
+* 📧 Email: **[otienobrian718@gmail.com](mailto:otienobrian718@gmail.com)**
+* 🔗 GitHub: [https://github.com/otieno-backend](https://github.com/otieno-backend)
+* 🔗 LinkedIn: [https://www.linkedin.com/in/brian-ochieng-ba1817374](https://www.linkedin.com/in/brian-ochieng-ba1817374)
+
+
+##  Note
+
+This profile represents my journey as a backend developer focused on continuous learning and building real-world systems using Python and C.
+
