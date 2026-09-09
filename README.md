@@ -1,101 +1,55 @@
-# 👨‍💻 Otieno Brian — Backend Developer
+👋 Hi, I'm Brian Otieno
+Backend Developer | Python | Django | REST APIs
 
-## 🚀 About Me
+I build backend applications and REST APIs using Python and Django, with a focus on clean code, authentication, databases, and production-ready systems.
 
-I am a backend developer focused on building reliable, scalable, and efficient server-side applications. I specialize in backend logic, API development, and database-driven systems using Python.
+I'm continuously improving my backend engineering skills by building and deploying real-world projects.
 
-I enjoy turning ideas into working backend systems and continuously improving my software engineering skills through real-world projects.
+🛠️ Tech Stack
 
----
+Languages:
+Python · C
 
-## 🧰 Tech Stack
+Backend:
+Django · Django REST Framework · REST APIs
 
-### 💻 Languages
+Database:
+SQLite · PostgreSQL
 
-* Python
-* C
+Tools & Deployment:
+Git · GitHub · Postman · Linux · Render · Vercel
 
-### ⚙️ Backend Development
+🚀 Featured Projects
+Social Media API
 
-* Django
-* Django REST Framework
-* REST API development
+A Django REST Framework API with authentication, user profiles, posts, comments, followers, search, pagination, and permissions.
 
-### 🗄️ Databases
+🔗 Live API: https://alx-djangolearnlab-1-d0qo.onrender.com
+🔗 Source: https://github.com/otieno-backend/Alx_DjangoLearnLab/tree/main/social_media_api
 
-* SQLite
-* PostgreSQL (learning / use case dependent)
+ALX Django Learning Lab
 
-### 🚀 Deployment & Hosting
+Backend development projects covering Django, REST APIs, authentication, databases, and backend architecture.
 
-* Render
-* Vercel
+🔗 https://github.com/otieno-backend/Alx_DjangoLearnLab
 
-### 🔧 Tools
+HNG14 Backend Tasks
 
-* Git & GitHub
-* Postman
-* Linux CLI
+Backend projects focused on API development, request handling, validation, and problem solving.
 
----
+🔗 https://github.com/otieno-backend/HNG14_Backend_Tasks
 
-## 📂 Featured Projects
+🎯 Currently Learning
+Advanced Django & REST API development
+PostgreSQL & database design
+System design
+Backend performance
+Cloud deployment
+Production-ready backend architecture
+🤝 Let's Connect
 
-### 🟢 ALX Django Learning Lab
+📧 Email: otienobrian718@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/brian-ochieng-ba1817374
+🐙 GitHub: https://github.com/otieno-backend
 
-A structured backend learning repository covering Django fundamentals and REST API development.
-
-* Django models and ORM
-* REST API design using Django REST Framework
-* Authentication and permissions
-* Backend architecture fundamentals
-
-🔗 [https://github.com/otieno-backend/Alx_DjangoLearnLab](https://github.com/otieno-backend/Alx_DjangoLearnLab)
-
----
-
-### 🔵 HNG Backend Tasks
-
-Backend API task-based development project focused on solving structured backend problems.
-
-* REST API endpoints
-* Request handling and validation
-* Backend logic implementation
-* Task-based engineering practice
-
-🔗 [https://github.com/otieno-backend/HNG14_Backend_Tasks](https://github.com/otieno-backend/HNG14_Backend_Tasks)
-
----
-
-## 🧠 Skills
-
-* API development and integration
-* Database design and management
-* Backend logic implementation
-* Authentication & authorization systems
-* Problem solving using Python and C
-* Version control with Git & GitHub
-
-
-## 📈 Current Focus
-
-I am currently improving my skills in:
-
-* Advanced REST API development
-* System design fundamentals
-* Backend performance optimization
-* Deployment using Render and Vercel
-* Writing production-ready backend systems
-
-
-## 📬 Contact
-
-* 📧 Email: **[otienobrian718@gmail.com](mailto:otienobrian718@gmail.com)**
-* 🔗 GitHub: [https://github.com/otieno-backend](https://github.com/otieno-backend)
-* 🔗 LinkedIn: [https://www.linkedin.com/in/brian-ochieng-ba1817374](https://www.linkedin.com/in/brian-ochieng-ba1817374)
-
-
-##  Note
-
-This profile represents my journey as a backend developer focused on continuous learning and building real-world systems using Python and C.
-
+💡 Backend Developer | Python | Django | DRF | REST API | PostgreSQL
